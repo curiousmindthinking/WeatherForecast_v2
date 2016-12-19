@@ -10,6 +10,10 @@
  Revealing Module Pattern
  Communication is being done with the use of q library.
 
+# Previous version:
+ Worked on a similar problem almost a year back and the link to the solution is : https://github.com/curiousmindthinking/WeatherForecast
+ This new version has revealing module design pattern, lodash, unit testing framework(chai and chai-http), hooked the unit tests with gulp, added the new http status codes. 
+ 
 #### Metrics
 
 As time goes on, Sarah will buy new instruments to plug into her RaspberryPi. Furthermore, some of the instruments she has already installed sometimes malfunction and stop reporting metrics! To handle this, Sarah has programmed her RaspberryPi to be very fault-tolerant and send a measurement whether or not a given instrument has reported a metric. Her code will *always* report the time accurately and at proper intervals, but the other metrics may not always be reported.

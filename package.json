@@ -1,0 +1,29 @@
+{
+  "name": "weatherforecast",
+  "version": "2.0.0",
+  "description": "weather forecast for rasberry pi",
+  "main": "app.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Supriya Bansal",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "*",
+    "chai": "*",
+    "chai-http": "*",
+    "express": "*",
+    "gulp": "*",
+    "gulp-mocha": "*",
+    "gulp-nodemon": "*",
+    "lodash": "*",
+    "lodash.max": "^4.0.1",
+    "lodash.min": "^4.0.1",
+    "promise": "*",
+    "q": "*",
+    "should": "*",
+    "sinon": "*",
+    "underscore": "*"
+  }
+}

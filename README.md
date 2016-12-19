@@ -5,6 +5,10 @@
  npm-install( this will install all the required node modules based on the packages mentioned in packages.json)
  gulp (Task runner has been implemented which starts on port 8000)
  gulp test( Test runner using gulp, it will execute all the spec files).
+ 
+ # Design Pattern used:
+ Revealing Module Pattern
+ Communication is being done with the use of q library.
 
 #### Metrics
 
